@@ -19,11 +19,11 @@ DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null && pwd )"
 cd $DIR/Squad
 
 mkdir fuelTankT800_v1
-cp ../../Squad/zDeprecated/Parts/FuelTank/fuelTankT800_v1/model000.dds fuelTankT800_v1
-cp ../../Squad/zDeprecated/Parts/FuelTank/fuelTankT800_v1/model001.dds fuelTankT800_v1
+cp zDeprecated/Parts/FuelTank/fuelTankT800_v1/model000.dds fuelTankT800_v1
+cp zDeprecated/Parts/FuelTank/fuelTankT800_v1/model001.dds fuelTankT800_v1
 
 mkdir fuelTankT400_v1
-cp ../../Squad/zDeprecated/Parts/FuelTank/fuelTankT400_v1/model000.dds fuelTankT400_v1
+cp zDeprecated/Parts/FuelTank/fuelTankT400_v1/model000.dds fuelTankT400_v1
 #cp ../../Squad/zDeprecated/Parts/FuelTank/fuelTankT400_v1/model001.dds fuelTankT400_v1
 
 
