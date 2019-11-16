@@ -42,7 +42,7 @@ namespace ModuleBounce
     {
         private const string MODNAME = "SXT";
         private const string FOLDERNAME = "SXT";
-        private const string EXPECTEDPATH = FOLDERNAME + "/Plugns";
+        private const string EXPECTEDPATH = FOLDERNAME + "/Plugins";
 
         protected void Start()
         {
