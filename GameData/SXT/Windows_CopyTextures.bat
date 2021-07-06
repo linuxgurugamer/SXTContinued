@@ -35,15 +35,33 @@ copy ..\..\Squad\zDeprecated\Parts\FuelTank\fuelTankX200-32\model001.dds fuelTan
 
 
 
+mkdir protectiveRocketNoseMk7
+copy ..\..\Squad\zDeprecated\Parts\Aero\protectiveRocketNoseMk7_v1\model000.dds protectiveRocketNoseMk7
+
+mkdir probeStackSphere
+copy ..\..\Squad\zDeprecated\Parts\Command\probeStackSphere_v1\model000.dds probeStackSphere
+
+mkdir liquidEngine48-7S
+copy ..\..\Squad\zDeprecated\Parts\Engine\liquidEngine48-7S_v1\*.dds liquidEngine48-7S
+
+mkdir liquidEngineSkipper
+copy ..\..\Squad\zDeprecated\Parts\Engine\liquidEngineSkipper_v1\*.dds liquidEngineSkipper
+
+mkdir dockingPort
+copy ..\..\Squad\zDeprecated\Parts\Utility\dockingPort_v1\*.dds dockingPort
+
+mkdir dockingPortSr
+copy ..\..\Squad\zDeprecated\Parts\Utility\dockingPortSr_v1\*.dds dockingPortSr
+
+mkdir rcsBlockRV-105
+copy ..\..\Squad\zDeprecated\Parts\Utility\rcsBlockRV-105_v1\rcs.dds rcsBlockRV-105
+
+
+
 
 echo.
 echo.
 echo The files have been copied
 echo.
 pause
-echo.
-echo There is a missing texture file which has to be copied from an earlier game
-echo.
-echo Copy this file:
-echo      KSP\GameData\Squad\Parts\FuelTank\Size3Tanks\fueltTanks_cm.dds
-echo from the old game (pre 1.8) to the same location in the new game
+

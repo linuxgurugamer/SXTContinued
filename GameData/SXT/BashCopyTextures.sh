@@ -7,9 +7,9 @@
 
 clear
 
-echo -e "\n\nThis batch file will copy the missing textures from the inaccessable"
+echo -e "/n/nThis batch file will copy the missing textures from the inaccessable"
 echo "Squad/zDeprecated directory "
-echo -e "\n\n"
+echo -e "/n/n"
 echo "Press return to continue"
 read yn
 
@@ -37,13 +37,29 @@ cp ../../Squad/zDeprecated/Parts/FuelTank/fuelTankX200-32/model000.dds fuelTankX
 cp ../../Squad/zDeprecated/Parts/FuelTank/fuelTankX200-32/model001.dds fuelTankX200-32
 
 
+mkdir protectiveRocketNoseMk7
+cp ../../Squad/zDeprecated/Parts/Aero/protectiveRocketNoseMk7_v1/model000.dds protectiveRocketNoseMk7
 
-echo -e "\n\nThe files have been copied/n"
+mkdir probeStackSphere
+cp ../../Squad/zDeprecated/Parts/Command/probeStackSphere_v1/model000.dds probeStackSphere
+
+mkdir liquidEngine48-7S
+cp ../../Squad/zDeprecated/Parts/Engine/liquidEngine48-7S_v1/*.dds liquidEngine48-7S
+
+mkdir liquidEngineSkipper
+cp ../../Squad/zDeprecated/Parts/Engine/liquidEngineSkipper_v1/*.dds liquidEngineSkipper
+
+mkdir dockingPort
+cp ../../Squad/zDeprecated/Parts/Utility/dockingPort_v1/*.dds dockingPort
+
+mkdir dockingPortSr
+cp ../../Squad/zDeprecated/Parts/Utility/dockingPortSr_v1/*.dds dockingPortSr
+
+mkdir rcsBlockRV-105
+cp ../../Squad/zDeprecated/Parts/Utility/rcsBlockRV-105_v1/rcs.dds rcsBlockRV-105
+
+echo -e "/n/nThe files have been copied/n"
 echo "Press return to continue"
 read yn
 
-echo -e "\n\nThere is a missing texture file which has to be copied from an earlier game"
-echo
-echo "Copy this file:"
-echo "     KSP/GameData/Squad/Parts/FuelTank/Size3Tanks/fueltTanks_cm.dds"
-echo "from the old game (pre 1.8) to the same location in the new game"
+
