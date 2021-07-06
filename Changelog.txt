@@ -263,6 +263,9 @@ ChangeLog
     Fixed orientation of wheel boxes upon creation
     Note:  Trucks are configured to be built in the SPH
 
-0.3.29.5 (unreleased)
+0.3.29.5
 	Updated ShuttleCockpit internal location based on suggestion from github
 	user @ncanceill
+
+0.3.29.6
+    Updated for 1.12
