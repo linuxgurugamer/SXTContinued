@@ -223,3 +223,4 @@ $RECYCLE.BIN/
 *.dll
 !Firespitter.dll
 !RetractableLiftingSurface.dll
+GameData-Copy

@@ -1,0 +1,5 @@
+All parts including the old 2 have now been confirmed to have valid tags in the English localization file. I count 194 part config files in the parts folder but only 190 parts in game when I type in SXT. It is not obvious what isn't turning up. The English localisation file has updated so that typing sxt and then a logical modifier will bring up specific parts, such as , cockpit,fuel,engine,wing,elevon,structur,electric,passenger,fuselage,cargo,science,rcs,rocket,jet,prop,probe,srb,dock,truck,nose,intake,adapter etc.
+The following parts now have new textures of their own.
+Gnat SRB, Kickback SRB, Tycho Anomaly, Senior Docking Port, RCS boom, RCS rack, Dontstayputnik.
+Please work from the config files I am sending you because some have repairs and others edits for the new textures.
+All have some small amount of tidying.
