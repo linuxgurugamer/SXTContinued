@@ -280,3 +280,7 @@ ChangeLog
 	Thanks to forum user @ColdJ for updating all the tags in all the part,
 	making it more consistent when doing searches
 	Thanks for forum user @Hebarusan for fixing a few syntax errors
+
+03.29.9
+	Thanks to github user @aishwarya25252 for this:
+		Made the bash script more robust to paths and fixed some typos
