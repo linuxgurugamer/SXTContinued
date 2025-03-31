@@ -1,6 +1,6 @@
 {
   "NAME": "SXTContinued",
-  "URL": "http://ksp.spacetux.net/avc/SXTContinued",
+  "URL": "https://raw.githubusercontent.com/linuxgurugamer/SXTContinued/refs/heads/master/SXTContinued.version",
   "DOWNLOAD": "https://github.com/linuxgurugamer/SXTContinued/releases",
   "GITHUB": {
     "USERNAME": "linuxgurugamer",
@@ -9,8 +9,8 @@
   "VERSION": {
     "MAJOR": 0,
     "MINOR": 3,
-    "PATCH": 29,
-    "BUILD": 9
+    "PATCH": 30,
+    "BUILD": 0
   },
   "KSP_VERSION": {
     "MAJOR": 1,
@@ -21,6 +21,11 @@
     "MAJOR": 1,
     "MINOR": 12,
     "PATCH": 0
+  },
+  "KSP_VERSION_MAX": {
+    "MAJOR": 1,
+    "MINOR": 12,
+    "PATCH": 99
   },
   "INSTALL_LOC_1": {
     "NAME": "SXTContinued",
