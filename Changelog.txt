@@ -288,3 +288,9 @@ ChangeLog
 0.3.30
 	Updated version file to use Github for new verison info
 	Fixed the solar panels on the SXTAlouetteI part (Probodobodyne QUBC "Warbler") so they work and don't cause exceptions during load
+
+0.3.31
+	Deleted old scripts which were used to copy deprecated textures from the Squad directory to a local dir
+	Added copied textures from the Squad zDeprecated directory
+		NOTE: The owners of KSP, through their Community Manager Ghostii_Space, confirmed 2 years ago that reusing old Squad assets are ok
+		
