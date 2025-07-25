@@ -294,3 +294,8 @@ ChangeLog
 	Added copied textures from the Squad zDeprecated directory
 		NOTE: The owners of KSP, through their Community Manager Ghostii_Space, confirmed 2 years ago that reusing old Squad assets are ok
 		
+0.3.31.1
+	Thanks to GitHub user @MarcosSilva88 for pointing out the following issues: 
+		Fixed texture issue on the XL Docking port
+		Fixed texture issue with the RT-3 Gnat booster
+		Deprecated one of the two monoliths
